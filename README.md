@@ -66,7 +66,7 @@ This project showcases techniques commonly used in phishing kits and malicious l
 - Python
 - Flask
 
-## Tunneling / Remote Access
+## Tunneling
 - Ngrok
 
 ---
