@@ -79,6 +79,9 @@ project/
 ├── main.py
 ├── templates/
 │   └── index.html
+├── static/
+│   └── main.js 
+│   └── style.css
 ├── captures/
 │   └── captured webcam images
 ├── requirements.txt
