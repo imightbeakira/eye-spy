@@ -183,4 +183,4 @@ The author assumes no responsibility for misuse.
 
 This repository is provided strictly for educational and authorized security research purposes.
 
-Do NOT deploy publicly or use against targets without explicit written permission.
+Do NOT deploy publicly or use against targets without their permission.
